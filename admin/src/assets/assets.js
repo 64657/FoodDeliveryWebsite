@@ -15,4 +15,4 @@ export const assets ={
 }
 
 // export const url = 'http://localhost:4000'
-const url = "https://fooddeliverywebsite-10vn.onrender.com";
+export const url = "https://fooddeliverywebsite-10vn.onrender.com";
